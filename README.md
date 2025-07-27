@@ -11,3 +11,9 @@
 ``` Make sure Python installed ```
 
               > python3 --version
+
+``` Install Visual Studio Code ```
+
+``` Open the cloned folder in Visual Studio code ```
+
+
