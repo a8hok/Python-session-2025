@@ -14,6 +14,20 @@ Make sure Python installed
 
 Install Visual Studio Code
 
- Open the cloned folder in Visual Studio code 
+Open the cloned folder in Visual Studio code
 
+Open the terminal
 
+Make the you're in the right folder path
+
+Then run the following python files
+
+                > python3 students.py
+
+                > python3 employee.py
+
+Verify the outputs
+
+Explore the code line by line.
+
+Practice on the same.
